@@ -1,6 +1,6 @@
-# Calculator-Layout
+# Calculator
 
-Doing this porject helped me have a better understanding how UI layout works and how to use stack layout and view 
+In this project I learned more about UI and stackView, tuple, if let, guard let, computed proparties
 
 ----------------------------------
 ## Credit
